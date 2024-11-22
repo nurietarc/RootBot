@@ -1,0 +1,3 @@
+echo "archivo-grande" >> .gitignore
+git add .gitignore
+git commit -m "Excluir archivo grande"
